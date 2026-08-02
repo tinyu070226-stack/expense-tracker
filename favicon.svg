@@ -1,1 +1,120 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="46" fill="none" viewBox="0 0 48 46"><path fill="#863bff" d="M25.946 44.938c-.664.845-2.021.375-2.021-.698V33.937a2.26 2.26 0 0 0-2.262-2.262H10.287c-.92 0-1.456-1.04-.92-1.788l7.48-10.471c1.07-1.497 0-3.578-1.842-3.578H1.237c-.92 0-1.456-1.04-.92-1.788L10.013.474c.214-.297.556-.474.92-.474h28.894c.92 0 1.456 1.04.92 1.788l-7.48 10.471c-1.07 1.498 0 3.579 1.842 3.579h11.377c.943 0 1.473 1.088.89 1.83L25.947 44.94z" style="fill:#863bff;fill:color(display-p3 .5252 .23 1);fill-opacity:1"/><mask id="a" width="48" height="46" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><path fill="#000" d="M25.842 44.938c-.664.844-2.021.375-2.021-.698V33.937a2.26 2.26 0 0 0-2.262-2.262H10.183c-.92 0-1.456-1.04-.92-1.788l7.48-10.471c1.07-1.498 0-3.579-1.842-3.579H1.133c-.92 0-1.456-1.04-.92-1.787L9.91.473c.214-.297.556-.474.92-.474h28.894c.92 0 1.456 1.04.92 1.788l-7.48 10.471c-1.07 1.498 0 3.578 1.842 3.578h11.377c.943 0 1.473 1.088.89 1.832L25.843 44.94z" style="fill:#000;fill-opacity:1"/></mask><g mask="url(#a)"><g filter="url(#b)"><ellipse cx="5.508" cy="14.704" fill="#ede6ff" rx="5.508" ry="14.704" style="fill:#ede6ff;fill:color(display-p3 .9275 .9033 1);fill-opacity:1" transform="matrix(.00324 1 1 -.00324 -4.47 31.516)"/></g><g filter="url(#c)"><ellipse cx="10.399" cy="29.851" fill="#ede6ff" rx="10.399" ry="29.851" style="fill:#ede6ff;fill:color(display-p3 .9275 .9033 1);fill-opacity:1" transform="matrix(.00324 1 1 -.00324 -39.328 7.883)"/></g><g filter="url(#d)"><ellipse cx="5.508" cy="30.487" fill="#7e14ff" rx="5.508" ry="30.487" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(89.814 -25.913 -14.639)scale(1 -1)"/></g><g filter="url(#e)"><ellipse cx="5.508" cy="30.599" fill="#7e14ff" rx="5.508" ry="30.599" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(89.814 -32.644 -3.334)scale(1 -1)"/></g><g filter="url(#f)"><ellipse cx="5.508" cy="30.599" fill="#7e14ff" rx="5.508" ry="30.599" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="matrix(.00324 1 1 -.00324 -34.34 30.47)"/></g><g filter="url(#g)"><ellipse cx="14.072" cy="22.078" fill="#ede6ff" rx="14.072" ry="22.078" style="fill:#ede6ff;fill:color(display-p3 .9275 .9033 1);fill-opacity:1" transform="rotate(93.35 24.506 48.493)scale(-1 1)"/></g><g filter="url(#h)"><ellipse cx="3.47" cy="21.501" fill="#7e14ff" rx="3.47" ry="21.501" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(89.009 28.708 47.59)scale(-1 1)"/></g><g filter="url(#i)"><ellipse cx="3.47" cy="21.501" fill="#7e14ff" rx="3.47" ry="21.501" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(89.009 28.708 47.59)scale(-1 1)"/></g><g filter="url(#j)"><ellipse cx=".387" cy="8.972" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(39.51 .387 8.972)"/></g><g filter="url(#k)"><ellipse cx="47.523" cy="-6.092" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(37.892 47.523 -6.092)"/></g><g filter="url(#l)"><ellipse cx="41.412" cy="6.333" fill="#47bfff" rx="5.971" ry="9.665" style="fill:#47bfff;fill:color(display-p3 .2799 .748 1);fill-opacity:1" transform="rotate(37.892 41.412 6.333)"/></g><g filter="url(#m)"><ellipse cx="-1.879" cy="38.332" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(37.892 -1.88 38.332)"/></g><g filter="url(#n)"><ellipse cx="-1.879" cy="38.332" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(37.892 -1.88 38.332)"/></g><g filter="url(#o)"><ellipse cx="35.651" cy="29.907" fill="#7e14ff" rx="4.407" ry="29.108" style="fill:#7e14ff;fill:color(display-p3 .4922 .0767 1);fill-opacity:1" transform="rotate(37.892 35.651 29.907)"/></g><g filter="url(#p)"><ellipse cx="38.418" cy="32.4" fill="#47bfff" rx="5.971" ry="15.297" style="fill:#47bfff;fill:color(display-p3 .2799 .748 1);fill-opacity:1" transform="rotate(37.892 38.418 32.4)"/></g></g><defs><filter id="b" width="60.045" height="41.654" x="-19.77" y="16.149" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="7.659"/></filter><filter id="c" width="90.34" height="51.437" x="-54.613" y="-7.533" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="7.659"/></filter><filter id="d" width="79.355" height="29.4" x="-49.64" y="2.03" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="e" width="79.579" height="29.4" x="-45.045" y="20.029" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="f" width="79.579" height="29.4" x="-43.513" y="21.178" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="g" width="74.749" height="58.852" x="15.756" y="-17.901" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="7.659"/></filter><filter id="h" width="61.377" height="25.362" x="23.548" y="2.284" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="i" width="61.377" height="25.362" x="23.548" y="2.284" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="j" width="56.045" height="63.649" x="-27.636" y="-22.853" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="k" width="54.814" height="64.646" x="20.116" y="-38.415" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="l" width="33.541" height="35.313" x="24.641" y="-11.323" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="m" width="54.814" height="64.646" x="-29.286" y="6.009" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="n" width="54.814" height="64.646" x="-29.286" y="6.009" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="o" width="54.814" height="64.646" x="8.244" y="-2.416" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter><filter id="p" width="39.409" height="43.623" x="18.713" y="10.588" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur result="effect1_foregroundBlur_2002_17158" stdDeviation="4.596"/></filter></defs></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1329" />
+      <stop offset="100%" stop-color="#030712" />
+    </linearGradient>
+
+    <!-- Cover Gradient (Nordique Fjord Blue) -->
+    <linearGradient id="cover-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#0369a1" />
+    </linearGradient>
+
+    <!-- Paper Sheet Gradient -->
+    <linearGradient id="paper-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#f1f5f9" />
+    </linearGradient>
+
+    <!-- Metallic Spiral Ring Gradient -->
+    <linearGradient id="metal-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc" />
+      <stop offset="30%" stop-color="#cbd5e1" />
+      <stop offset="70%" stop-color="#64748b" />
+      <stop offset="100%" stop-color="#e2e8f0" />
+    </linearGradient>
+
+    <!-- Vibrant Income/Expense Gradients -->
+    <linearGradient id="income-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+
+    <linearGradient id="expense-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fb7185" />
+      <stop offset="100%" stop-color="#f43f5e" />
+    </linearGradient>
+
+    <!-- Drop Shadow -->
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#000000" flood-opacity="0.6" />
+    </filter>
+    
+    <filter id="ring-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="-2" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <!-- Base Icon Background (iOS Squircle shape) -->
+  <rect width="512" height="512" rx="115" fill="url(#bg-grad)" />
+
+  <!-- Outer Ambient Glow -->
+  <circle cx="256" cy="256" r="210" fill="#0284c7" opacity="0.15" filter="blur(40px)" />
+
+  <!-- Main Ledger Notebook Container with Shadow -->
+  <g filter="url(#shadow)">
+    <!-- Back Cover (Nordique Fjord Blue Shadow) -->
+    <rect x="115" y="80" width="310" height="352" rx="24" fill="url(#cover-grad)" />
+
+    <!-- Inner Paper Sheet -->
+    <rect x="135" y="94" width="275" height="324" rx="16" fill="url(#paper-grad)" />
+
+    <!-- Ledger Grid Headers & Lines -->
+    <!-- Top Header Bar -->
+    <rect x="155" y="120" width="235" height="32" rx="6" fill="rgba(2, 132, 199, 0.12)" />
+    <rect x="165" y="130" width="40" height="12" rx="3" fill="#0284c7" opacity="0.8" />
+    <rect x="225" y="130" width="55" height="12" rx="3" fill="#64748b" opacity="0.6" />
+    <rect x="300" y="130" width="45" height="12" rx="3" fill="#10b981" />
+    <rect x="355" y="130" width="25" height="12" rx="3" fill="#f43f5e" />
+
+    <!-- Horizontal Ledger Rows -->
+    <line x1="155" y1="172" x2="390" y2="172" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
+    <line x1="155" y1="212" x2="390" y2="212" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
+    <line x1="155" y1="252" x2="390" y2="252" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
+    <line x1="155" y1="292" x2="390" y2="292" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
+    <line x1="155" y1="332" x2="390" y2="332" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
+
+    <!-- Vertical Column Grid Dividers -->
+    <line x1="215" y1="120" x2="215" y2="350" stroke="#cbd5e1" stroke-width="1.5" />
+    <line x1="290" y1="120" x2="290" y2="350" stroke="#cbd5e1" stroke-width="1.5" />
+    <line x1="345" y1="120" x2="345" y2="350" stroke="#cbd5e1" stroke-width="1.5" />
+
+    <!-- Sample Colorful Transaction Pills on Ledger -->
+    <!-- Income Pill (+$) -->
+    <rect x="298" y="185" width="40" height="14" rx="4" fill="url(#income-grad)" />
+    <rect x="352" y="225" width="32" height="14" rx="4" fill="url(#expense-grad)" />
+    <rect x="298" y="265" width="40" height="14" rx="4" fill="url(#income-grad)" />
+
+    <!-- Total Summary Box at Bottom -->
+    <rect x="155" y="360" width="235" height="42" rx="10" fill="#0f172a" />
+    <circle cx="180" cy="381" r="10" fill="#38bdf8" opacity="0.2" />
+    <rect x="200" y="375" width="70" height="12" rx="3" fill="#ffffff" />
+    <rect x="310" y="373" width="65" height="16" rx="4" fill="#38bdf8" />
+
+    <!-- Metallic Spiral Wire Coil Loops on Left Edge -->
+    <!-- Punch Holes -->
+    <circle cx="125" cy="115" r="8" fill="#475569" />
+    <circle cx="125" cy="155" r="8" fill="#475569" />
+    <circle cx="125" cy="195" r="8" fill="#475569" />
+    <circle cx="125" cy="235" r="8" fill="#475569" />
+    <circle cx="125" cy="275" r="8" fill="#475569" />
+    <circle cx="125" cy="315" r="8" fill="#475569" />
+    <circle cx="125" cy="355" r="8" fill="#475569" />
+    <circle cx="125" cy="395" r="8" fill="#475569" />
+
+    <!-- Metallic Coils (3D Silver Ring Loops) -->
+    <g filter="url(#ring-shadow)">
+      <path d="M 95 105 C 80 115, 80 125, 130 115" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
+      <path d="M 95 145 C 80 155, 80 165, 130 155" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
+      <path d="M 95 185 C 80 195, 80 205, 130 195" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
+      <path d="M 95 225 C 80 235, 80 245, 130 235" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
+      <path d="M 95 265 C 80 275, 80 285, 130 275" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
+      <path d="M 95 305 C 80 315, 80 325, 130 315" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
+      <path d="M 95 345 C 80 355, 80 365, 130 355" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
+      <path d="M 95 385 C 80 395, 80 405, 130 395" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>
