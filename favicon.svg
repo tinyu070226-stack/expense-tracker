@@ -1,120 +1,91 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1329" />
-      <stop offset="100%" stop-color="#030712" />
+    <!-- Background Gradient (Deep Polar Night) -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#0b0f19" />
     </linearGradient>
 
-    <!-- Cover Gradient (Nordique Fjord Blue) -->
-    <linearGradient id="cover-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Cover Plane Gradient (Nordique Fjord Blue) -->
+    <linearGradient id="cover" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="50%" stop-color="#0284c7" />
-      <stop offset="100%" stop-color="#0369a1" />
+      <stop offset="100%" stop-color="#0284c7" />
     </linearGradient>
 
-    <!-- Paper Sheet Gradient -->
-    <linearGradient id="paper-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="100%" stop-color="#f1f5f9" />
-    </linearGradient>
-
-    <!-- Metallic Spiral Ring Gradient -->
-    <linearGradient id="metal-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <!-- Metallic Wire Coil Gradient -->
+    <linearGradient id="metal" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#f8fafc" />
-      <stop offset="30%" stop-color="#cbd5e1" />
-      <stop offset="70%" stop-color="#64748b" />
-      <stop offset="100%" stop-color="#e2e8f0" />
+      <stop offset="50%" stop-color="#94a3b8" />
+      <stop offset="100%" stop-color="#cbd5e1" />
     </linearGradient>
-
-    <!-- Vibrant Income/Expense Gradients -->
-    <linearGradient id="income-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#34d399" />
-      <stop offset="100%" stop-color="#10b981" />
-    </linearGradient>
-
-    <linearGradient id="expense-grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#fb7185" />
-      <stop offset="100%" stop-color="#f43f5e" />
-    </linearGradient>
-
-    <!-- Drop Shadow -->
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="16" stdDeviation="20" flood-color="#000000" flood-opacity="0.6" />
-    </filter>
-    
-    <filter id="ring-shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="-2" dy="4" stdDeviation="4" flood-color="#000000" flood-opacity="0.35" />
-    </filter>
   </defs>
 
-  <!-- Base Icon Background (iOS Squircle shape) -->
-  <rect width="512" height="512" rx="115" fill="url(#bg-grad)" />
+  <!-- Base iOS Squircle Frame (面) -->
+  <rect width="512" height="512" rx="115" fill="url(#bg)" />
 
-  <!-- Outer Ambient Glow -->
-  <circle cx="256" cy="256" r="210" fill="#0284c7" opacity="0.15" filter="blur(40px)" />
+  <!-- Geometric Minimalist Notebook Composition (點·線·面) -->
+  <g transform="translate(10, 0)">
+    <!-- Cover Base Plane (面) -->
+    <rect x="110" y="80" width="315" height="352" rx="28" fill="url(#cover)" />
 
-  <!-- Main Ledger Notebook Container with Shadow -->
-  <g filter="url(#shadow)">
-    <!-- Back Cover (Nordique Fjord Blue Shadow) -->
-    <rect x="115" y="80" width="310" height="352" rx="24" fill="url(#cover-grad)" />
+    <!-- White Paper Inner Plane (面) -->
+    <rect x="132" y="94" width="278" height="324" rx="20" fill="#ffffff" />
 
-    <!-- Inner Paper Sheet -->
-    <rect x="135" y="94" width="275" height="324" rx="16" fill="url(#paper-grad)" />
+    <!-- Table Grid Lines (線) -->
+    <!-- Header Divider Line -->
+    <line x1="152" y1="150" x2="390" y2="150" stroke="#0284c7" stroke-width="4" stroke-linecap="round" />
 
-    <!-- Ledger Grid Headers & Lines -->
-    <!-- Top Header Bar -->
-    <rect x="155" y="120" width="235" height="32" rx="6" fill="rgba(2, 132, 199, 0.12)" />
-    <rect x="165" y="130" width="40" height="12" rx="3" fill="#0284c7" opacity="0.8" />
-    <rect x="225" y="130" width="55" height="12" rx="3" fill="#64748b" opacity="0.6" />
-    <rect x="300" y="130" width="45" height="12" rx="3" fill="#10b981" />
-    <rect x="355" y="130" width="25" height="12" rx="3" fill="#f43f5e" />
+    <!-- Horizontal Ledger Rows (線) -->
+    <line x1="152" y1="195" x2="390" y2="195" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round" />
+    <line x1="152" y1="240" x2="390" y2="240" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round" />
+    <line x1="152" y1="285" x2="390" y2="285" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round" />
+    <line x1="152" y1="330" x2="390" y2="330" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round" />
 
-    <!-- Horizontal Ledger Rows -->
-    <line x1="155" y1="172" x2="390" y2="172" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
-    <line x1="155" y1="212" x2="390" y2="212" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
-    <line x1="155" y1="252" x2="390" y2="252" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
-    <line x1="155" y1="292" x2="390" y2="292" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
-    <line x1="155" y1="332" x2="390" y2="332" stroke="#e2e8f0" stroke-width="2.5" stroke-dasharray="4 4" />
+    <!-- Vertical Column Grid Dividers (線) -->
+    <line x1="210" y1="114" x2="210" y2="350" stroke="#cbd5e1" stroke-width="2.5" />
+    <line x1="295" y1="114" x2="295" y2="350" stroke="#cbd5e1" stroke-width="2.5" />
+    <line x1="350" y1="114" x2="350" y2="350" stroke="#cbd5e1" stroke-width="2.5" />
 
-    <!-- Vertical Column Grid Dividers -->
-    <line x1="215" y1="120" x2="215" y2="350" stroke="#cbd5e1" stroke-width="1.5" />
-    <line x1="290" y1="120" x2="290" y2="350" stroke="#cbd5e1" stroke-width="1.5" />
-    <line x1="345" y1="120" x2="345" y2="350" stroke="#cbd5e1" stroke-width="1.5" />
+    <!-- Geometric Points & Data Indicator Lines (點 & 線) -->
+    <!-- Date / Abstract Lines -->
+    <line x1="162" y1="130" x2="190" y2="130" stroke="#64748b" stroke-width="5" stroke-linecap="round" />
+    <line x1="162" y1="173" x2="195" y2="173" stroke="#94a3b8" stroke-width="4" stroke-linecap="round" />
+    <line x1="162" y1="218" x2="195" y2="218" stroke="#94a3b8" stroke-width="4" stroke-linecap="round" />
+    <line x1="162" y1="263" x2="195" y2="263" stroke="#94a3b8" stroke-width="4" stroke-linecap="round" />
 
-    <!-- Sample Colorful Transaction Pills on Ledger -->
-    <!-- Income Pill (+$) -->
-    <rect x="298" y="185" width="40" height="14" rx="4" fill="url(#income-grad)" />
-    <rect x="352" y="225" width="32" height="14" rx="4" fill="url(#expense-grad)" />
-    <rect x="298" y="265" width="40" height="14" rx="4" fill="url(#income-grad)" />
+    <!-- Income Emerald Points & Bars (點 & 面) -->
+    <circle cx="322" cy="173" r="8" fill="#10b981" />
+    <circle cx="322" cy="263" r="8" fill="#10b981" />
+    <rect x="306" y="212" width="32" height="12" rx="6" fill="#10b981" />
 
-    <!-- Total Summary Box at Bottom -->
-    <rect x="155" y="360" width="235" height="42" rx="10" fill="#0f172a" />
-    <circle cx="180" cy="381" r="10" fill="#38bdf8" opacity="0.2" />
-    <rect x="200" y="375" width="70" height="12" rx="3" fill="#ffffff" />
-    <rect x="310" y="373" width="65" height="16" rx="4" fill="#38bdf8" />
+    <!-- Expense Coral Red Points & Bars (點 & 面) -->
+    <circle cx="370" cy="218" r="8" fill="#f43f5e" />
+    <rect x="356" y="167" width="28" height="12" rx="6" fill="#f43f5e" />
+    <rect x="356" y="257" width="28" height="12" rx="6" fill="#f43f5e" />
 
-    <!-- Metallic Spiral Wire Coil Loops on Left Edge -->
-    <!-- Punch Holes -->
-    <circle cx="125" cy="115" r="8" fill="#475569" />
-    <circle cx="125" cy="155" r="8" fill="#475569" />
-    <circle cx="125" cy="195" r="8" fill="#475569" />
-    <circle cx="125" cy="235" r="8" fill="#475569" />
-    <circle cx="125" cy="275" r="8" fill="#475569" />
-    <circle cx="125" cy="315" r="8" fill="#475569" />
-    <circle cx="125" cy="355" r="8" fill="#475569" />
-    <circle cx="125" cy="395" r="8" fill="#475569" />
+    <!-- Bottom Summary Trapezoid Pill Bar (面 & 點) -->
+    <rect x="152" y="362" width="238" height="38" rx="14" fill="#0f172a" />
+    <circle cx="178" cy="381" r="7" fill="#38bdf8" />
+    <line x1="196" y1="381" x2="250" y2="381" stroke="#ffffff" stroke-width="4" stroke-linecap="round" />
+    <line x1="310" y1="381" x2="368" y2="381" stroke="#38bdf8" stroke-width="5" stroke-linecap="round" />
 
-    <!-- Metallic Coils (3D Silver Ring Loops) -->
-    <g filter="url(#ring-shadow)">
-      <path d="M 95 105 C 80 115, 80 125, 130 115" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
-      <path d="M 95 145 C 80 155, 80 165, 130 155" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
-      <path d="M 95 185 C 80 195, 80 205, 130 195" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
-      <path d="M 95 225 C 80 235, 80 245, 130 235" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
-      <path d="M 95 265 C 80 275, 80 285, 130 275" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
-      <path d="M 95 305 C 80 315, 80 325, 130 315" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
-      <path d="M 95 345 C 80 355, 80 365, 130 355" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
-      <path d="M 95 385 C 80 395, 80 405, 130 395" fill="none" stroke="url(#metal-grad)" stroke-width="9" stroke-linecap="round" />
-    </g>
+    <!-- Minimalist Metallic Spiral Rings & Punch Dots (點 & 線) -->
+    <!-- Punch Hole Dots (點) -->
+    <circle cx="112" cy="120" r="7" fill="#334155" />
+    <circle cx="112" cy="165" r="7" fill="#334155" />
+    <circle cx="112" cy="210" r="7" fill="#334155" />
+    <circle cx="112" cy="255" r="7" fill="#334155" />
+    <circle cx="112" cy="300" r="7" fill="#334155" />
+    <circle cx="112" cy="345" r="7" fill="#334155" />
+    <circle cx="112" cy="390" r="7" fill="#334155" />
+
+    <!-- Metal Spiral Coils (點與線極簡幾何環) -->
+    <path d="M 86 112 C 76 112, 76 128, 118 120" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round" />
+    <path d="M 86 157 C 76 157, 76 173, 118 165" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round" />
+    <path d="M 86 202 C 76 202, 76 218, 118 210" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round" />
+    <path d="M 86 247 C 76 247, 76 263, 118 255" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round" />
+    <path d="M 86 292 C 76 292, 76 308, 118 300" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round" />
+    <path d="M 86 337 C 76 337, 76 353, 118 345" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round" />
+    <path d="M 86 382 C 76 382, 76 398, 118 390" fill="none" stroke="url(#metal)" stroke-width="7" stroke-linecap="round" />
   </g>
 </svg>
